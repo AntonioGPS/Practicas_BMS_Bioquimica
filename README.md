@@ -1,8 +1,9 @@
 PracticaBMS_1
 =============
 
-Prácticas básicas NGS. 
-Realizaremos un análisis mediante FastQC de las secuencias provenientes de un secuenciador Illumina y uno SOLiD
+Prácticas básicas NGS.
+
+En esta ocasión realizaremos un análisis mediante FastQC de las secuencias provenientes de un secuenciador Illumina y uno SOLiD
 
 En las secuencias con Illumina valoraremos la calidad y realizaremos un trimming de lecturas de varias formas distintas.
 
