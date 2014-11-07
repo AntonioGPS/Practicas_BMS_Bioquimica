@@ -21,7 +21,7 @@ $java -version
 ![](https://github.com/AntonioGPS/PracticaBMS_1/blob/master/1.%20Control%20Calidad%20Secuenciaci%C3%B3n%20NGS/Imagenes/JAVA_window.png)
 
 #### C. Qué hacer si no se tiene instalado Java
-1. Para instalarlo en Windows, entra en este [ENLACE](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html?ssSourceSiteId=otnes) y descarga la versión adecuada, teniendo en cuenta si tienes un sistema operativo de 32 o 64 bits. Para saber qué sistema operativo tienes, da con el ratón derecho sobre el icono de ==Mi PC== o ==Equipo== en Windows, luego, propiedades, y fíjate que en la pantalla te lo indica
+1. Para instalarlo en Windows, entra en este [ENLACE](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html?ssSourceSiteId=otnes) y descarga la versión adecuada, teniendo en cuenta si tienes un sistema operativo de 32 o 64 bits. Para saber qué sistema operativo tienes, da con el ratón derecho sobre el icono de **Mi PC** o **Equipo** en Windows, luego, propiedades, y fíjate que en la pantalla te lo indica
 ![](https://github.com/AntonioGPS/PracticaBMS_1/blob/master/1.%20Control%20Calidad%20Secuenciaci%C3%B3n%20NGS/Imagenes/Windows32_o_64bit.png)
 2. Para instalarlo en Linux
 ```
