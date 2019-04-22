@@ -1,4 +1,4 @@
-###Práctica en la que realizaremos un ensamblado del genoma de la bacteria E. Coli.###
+###Práctica en la que realizaremos un ensamblado del genoma de la bacteria E. Coli.
 
 Las lecturas (secuencias pareadas) las descargaremos de servidores públicos en forma de archivos fastq.
 
