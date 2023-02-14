@@ -11,7 +11,7 @@ Para adquirir práctica real, tendréis que estudiar y analizar todos los progra
 
 Con las lecturas SOLiD simplemente veremos el patrón característico de calidad que se obtiene con esta plataforma de secuenciación, para su consideración.
 
-##### Práctica 2. Ensamblado genoma de *E. coli* con Velvet
+### Práctica 2. Ensamblado genoma de *E. coli* con Velvet
 En esta segunda práctica descargaremos secuencias obtenidas mediante un equipo Illumina desde bases de datos públicas, y las ensamblaremos con el programa Velvet. 
 
 Esta práctica implica la instalación de los programas, su compilacion en caso de ser necesarios, y todos los pasos que sean requeridos
