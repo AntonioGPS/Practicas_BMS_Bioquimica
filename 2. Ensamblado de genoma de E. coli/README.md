@@ -4,11 +4,15 @@
 
 - Tras hacer un control de calidad con FastQC, el genoma será ensamblado con el programa Velvet con varios valores de kmer para elaborar las graficas de De Bruijn
 
+- Evaluaremos las diferentes opciones para ejecutar el programa Velvetg y Velveth. EL primero de ellos crea los kmers, y el segundo las gráficas de Bruijn y el borrador del genoma, generando un archivo de estadísticas y de contigs
+
+- Con ayuda de Linux, hay que averiguar el número de contigs que se crean con el programa Velvet. Discutiremos el clase el por qué a cada alumno le sale un número diferente de contigs en el ensamblado
+
 - A continuación compararemos los diferentes ensamblados con otro genoma de referencia de *E. coli* del que se tiene cierta certeza que es correcto con ayuda del programa Mauve, y decidiremos que ensamblado es el más valoraremos.
 
 - La práctica implica que el alumno instala los programas necesarios, descarga los archivos adecuados y realiza todo el proceso hasta culminar con el proceso desde el principio hasta el final
 
-- Con ayuda de Linux, hay que averiguar el número de contigs que se crean con el programa Velvet
+- 
 
 - El procedimiento está desarrollado en [ENLACE](http://www.uco.es/users/bb1rofra/BiologiaSistemas/Tema6_Genomica/practicas/TutorialGenomicaBacteriana_archivos/Tutorial_Velvet_Ecoli.html). Abridlo y seguir las instrucciones. 
 
