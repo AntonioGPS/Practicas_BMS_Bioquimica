@@ -8,6 +8,8 @@
 
 - La práctica implica que el alumno instala los programas necesarios, descarga los archivos adecuados y realiza todo el proceso hasta culminar con el proceso desde el principio hasta el final
 
+- Con ayuda de Linux, hay que averiguar el número de contigs que se crean con el programa Velvet
+
 - El procedimiento está desarrollado en [ENLACE](http://www.uco.es/users/bb1rofra/BiologiaSistemas/Tema6_Genomica/practicas/TutorialGenomicaBacteriana_archivos/Tutorial_Velvet_Ecoli.html). Abridlo y seguir las instrucciones. 
 
 **Debéis incorporar toda la información obtenida y resultados en vuestra pagina WEB**
